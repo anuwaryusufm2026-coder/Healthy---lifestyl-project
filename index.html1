@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>My Healthy Lifestyle Page</title>
+</head>
+
+<body>
+
+<header>
+<h1>Healthy Lifestyle</h1>
+<p>This webpage talks about simple ways to stay healthy every day.</p>
+</header>
+
+<main>
+
+<section>
+<h2>Good Habits</h2>
+
+<ul>
+<li>Drink more water</li>
+<li>Exercise often</li>
+<li>Sleep early</li>
+</ul>
+</section>
+
+<section>
+<h2>Healthy Activities</h2>
+
+<img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400"
+alt="People exercising"
+width="250">
+
+<img src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=400"
+alt="Healthy food"
+width="250">
+
+<img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=400"
+alt="Nature and fresh air"
+width="250">
+</section>
+
+<section>
+<h2>More Information</h2>
+
+<p>
+You can learn more about healthy living on the
+<a href="https://www.who.int/" target="_blank">
+WHO website
+</a>.
+</p>
+</section>
+
+</main>
+
+<footer>
+<p>Created by a student for HTML practice.</p>
+</footer>
+
+</body>
+
+</html>
